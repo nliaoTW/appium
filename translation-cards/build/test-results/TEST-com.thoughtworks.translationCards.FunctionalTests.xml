@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.translationCards.FunctionalTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-08-25T19:54:18" hostname="nanliao.local" time="54.988">
+  <properties/>
+  <testcase name="createDeck" classname="com.thoughtworks.translationCards.FunctionalTests" time="54.988"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
